@@ -212,7 +212,7 @@ def random(pages=1):
 
 
 @cache
-def summary(title, sentences=0, chars=0, auto_suggest=True, redirect=True):
+def summary(title, sentences=0, chars=0, auto_suggest=False, redirect=True):
   '''
   Plain text summary of the page.
 
