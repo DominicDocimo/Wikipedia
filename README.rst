@@ -11,6 +11,10 @@ Wikipedia
     :target: https://pypi.python.org/pypi/wikipedia/
     :alt: License
 
+**Note from the fork owner:**
+I forked this to fix some bugs/annoying things due to the original project being unmaintained. I will only be updating this for my own personal needs.
+
+
 **Wikipedia** is a Python library that makes it easy to access and parse
 data from Wikipedia.
 
